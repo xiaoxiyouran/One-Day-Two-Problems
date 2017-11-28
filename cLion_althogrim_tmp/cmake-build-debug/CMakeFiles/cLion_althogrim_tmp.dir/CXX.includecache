@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cookie/Downloads/One Day Two Problem/cLion_althogrim_tmp/main.cpp
+iostream
+-
+vector
+-
+cmath
+-
+
